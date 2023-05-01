@@ -6,7 +6,7 @@
       "likes": 5000,
       "num_recipes": 50,
       "years_experience": 20,
-      "image_url": "https://example.com/chef1.jpg"
+      "image_url": "https://images.unsplash.com/photo-1600565193348-f74bd3c7ccdf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
     },
     {
       "id": 2,
@@ -15,7 +15,7 @@
       "likes": 7000,
       "num_recipes": 75,
       "years_experience": 15,
-      "image_url": "https://example.com/chef2.jpg"
+      "image_url": "https://images.unsplash.com/photo-1470114755716-3e1124c6c3bd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=798&q=80"
     },
     {
       "id": 3,
@@ -24,7 +24,7 @@
       "likes": 10000,
       "num_recipes": 40,
       "years_experience": 12,
-      "image_url": "https://example.com/chef3.jpg"
+      "image_url": "https://images.unsplash.com/flagged/photo-1561350117-501b4661f8d4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
     },
     {
       "id": 4,
@@ -33,7 +33,7 @@
       "likes": 12000,
       "num_recipes": 30,
       "years_experience": 10,
-      "image_url": "https://example.com/chef4.jpg"
+      "image_url": "https://images.unsplash.com/photo-1502364271109-0a9a75a2a9df?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
     },
     {
       "id": 5,
@@ -42,7 +42,7 @@
       "likes": 8000,
       "num_recipes": 50,
       "years_experience": 8,
-      "image_url": "https://example.com/chef5.jpg"
+      "image_url": "https://images.unsplash.com/photo-1576237680582-75be01432ca6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
     },
     {
       "id": 6,
@@ -51,7 +51,7 @@
       "likes": 6000,
       "num_recipes": 45,
       "years_experience": 7,
-      "image_url": "https://example.com/chef6.jpg"
+      "image_url": "https://images.unsplash.com/photo-1562514155-444b9a967dfa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
     },
     {
       "id": 7,
@@ -60,6 +60,6 @@
       "likes": 9000,
       "num_recipes": 35,
       "years_experience": 10,
-      "image_url": "https://example.com/chef7.jpg"
+      "image_url": "https://images.unsplash.com/photo-1545659531-9a66f06e260a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
     }
 ]
