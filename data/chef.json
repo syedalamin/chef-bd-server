@@ -9,11 +9,11 @@
       "image_url": "https://images.unsplash.com/photo-1600565193348-f74bd3c7ccdf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
     },
     {
-      "id": 2,
+      "id": 2, 
       "name": "Jane Doe",
       "bio": "Chef Jane Doe has been cooking professionally for 15 years and has worked in some of the finest restaurants in New York City. She is known for her creative use of seasonal ingredients and has a passion for farm-to-table cooking.",
       "likes": 7000,
-      "num_recipes": 75,
+      "num_recipes": 5,
       "years_experience": 15,
       "image_url": "https://images.unsplash.com/photo-1470114755716-3e1124c6c3bd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=798&q=80"
     },
@@ -52,14 +52,5 @@
       "num_recipes": 45,
       "years_experience": 7,
       "image_url": "https://images.unsplash.com/photo-1562514155-444b9a967dfa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
-    },
-    {
-      "id": 7,
-      "name": "William Kim",
-      "bio": "Chef William Kim is a Korean-American chef who is known for his classic French techniques and modern Korean flavors. He has worked in some of the most prestigious kitchens in New York City and has won several awards for his innovative cuisine.",
-      "likes": 9000,
-      "num_recipes": 35,
-      "years_experience": 10,
-      "image_url": "https://images.unsplash.com/photo-1545659531-9a66f06e260a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
     }
 ]

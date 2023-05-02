@@ -1,0 +1,470 @@
+[
+    {
+        "id": 1,
+        "recipe_name": "Chicken Curry",
+        "ingredients": [
+            "1 lb chicken",
+            "1 onion",
+            "2 cloves garlic",
+            "1 tsp ginger paste",
+            "1 tsp cumin",
+            "1 tsp coriander",
+            "1/2 tsp turmeric",
+            "1/4 tsp chili powder",
+            "1/4 cup yogurt",
+            "1/4 cup tomato puree",
+            "1/4 cup water",
+            "2 tbsp oil",
+            "Salt to taste"
+        ],
+        "cooking_method": "1. Heat oil in a pan and fry onion, garlic, and ginger paste until golden brown. \n2. Add the chicken and cook for 5 minutes. \n3. Add cumin, coriander, turmeric, chili powder, and salt. Cook for 2 minutes. \n4. Add tomato puree and water, and cook for 10-15 minutes until the chicken is fully cooked. \n5. Add yogurt and cook for another 2-3 minutes. Serve hot with rice or bread.",
+        "rating": 4.5
+    },
+    {
+        "id": 2,
+        "recipe_name": "Beef Bhuna",
+        "ingredients": [
+            "1 lb beef",
+            "1 onion",
+            "2 cloves garlic",
+            "1 tsp ginger paste",
+            "1 tsp cumin",
+            "1 tsp coriander",
+            "1/2 tsp turmeric",
+            "1/4 tsp chili powder",
+            "1/4 cup tomato puree",
+            "1/4 cup water",
+            "2 tbsp oil",
+            "Salt to taste"
+        ],
+        "cooking_method": "1. Heat oil in a pan and fry onion, garlic, and ginger paste until golden brown. \n2. Add the beef and cook for 5-7 minutes. \n3. Add cumin, coriander, turmeric, chili powder, and salt. Cook for 2-3 minutes. \n4. Add tomato puree and water, and cook for 20-25 minutes until the beef is fully cooked. \n5. Serve hot with rice or bread.",
+        "rating": 4.0
+    },
+    {
+        "id": 3,
+        "recipe_name": "Fish Kalia",
+        "ingredients": [
+            "1 lb fish",
+            "1 onion",
+            "2 cloves garlic",
+            "1 tsp ginger paste",
+            "1 tsp cumin",
+            "1 tsp coriander",
+            "1/2 tsp turmeric",
+            "1/4 tsp chili powder",
+            "1/4 cup tomato puree",
+            "1/4 cup water",
+            "2 tbsp oil",
+            "Salt to taste"
+        ],
+        "cooking_method": "1. Heat oil in a pan and fry onion, garlic, and ginger paste until golden brown. \n2. Add the fish and cook for 3-4 minutes. \n3. Add cumin, coriander, turmeric, chili powder, and salt. Cook for 2-3 minutes. \n4. Add tomato puree and water, and cook for 10-15 minutes until the fish is fully cooked. \n5. Serve hot with rice or bread.",
+        "rating": 4.2
+    },
+    {
+        "id": 4,
+        "recipe_name": "Shrimp Curry",
+        "ingredients": [
+            "1 lb shrimp",
+            "1 onion",
+            "2 cloves garlic",
+            "1 tsp ginger paste",
+            "1 tsp cumin",
+            "1 tsp coriander",
+            "1/2 tsp turmeric",
+            "1/4 tsp chili powder",
+            "1/4 cup yogurt",
+            "1/4 cup tomato puree",
+            "1/4 cup water",
+            "2 tbsp oil",
+            "Salt to taste"
+        ],
+        "cooking_method": "1. Heat oil in a pan and fry onion, garlic, and ginger paste until golden brown. \n2. Add the shrimp and cook for 2-3 minutes. \n3. Add cumin, coriander, turmeric, chili powder, and salt. Cook for 2-3 minutes. \n4. Add tomato puree and water, and cook for 10-15 minutes until the shrimp is fully cooked. \n5. Add yogurt and cook for another 2-3 minutes. Serve hot with rice or bread.",
+        "rating": 4.6
+    },
+    {
+        "id": 5,
+        "recipe_name": "Vegetable Curry",
+        "ingredients": [
+            "2 potatoes",
+            "1 carrot",
+            "1 onion",
+            "2 cloves garlic",
+            "1 tsp ginger paste",
+            "1 tsp cumin",
+            "1 tsp coriander",
+            "1/2 tsp turmeric",
+            "1/4 tsp chili powder",
+            "1/4 cup tomato puree",
+            "1/4 cup water",
+            "2 tbsp oil",
+            "Salt to taste"
+        ],
+        "cooking_method": "1. Heat oil in a pan and fry onion, garlic, and ginger paste until golden brown. \n2. Add potatoes and carrot, and cook for 5-7 minutes. \n3. Add cumin, coriander, turmeric, chili powder, and salt. Cook for 2-3 minutes. \n4. Add tomato puree and water, and cook for 10-15 minutes until the vegetables are fully cooked. \n5. Serve hot with rice or bread.",
+        "rating": 4.0
+    },
+    {
+        "id": 6,
+        "recipe_name": "Chingri Malai Curry",
+        "ingredients": [
+          "500g shrimp",
+          "1 cup coconut milk",
+          "1 onion, chopped",
+          "1 tsp ginger paste",
+          "1 tsp garlic paste",
+          "1 tsp turmeric",
+          "1 tsp cumin",
+          "1 tsp coriander",
+          "1/2 tsp chili powder",
+          "2 tbsp oil",
+          "Salt to taste"
+        ],
+        "cooking_method": "1. Heat oil in a pan and fry onion, ginger and garlic paste until golden brown.\n2. Add shrimp and cook for 3-4 minutes.\n3. Add turmeric, cumin, coriander, chili powder, and salt. Mix well.\n4. Add coconut milk and cook for another 5-7 minutes or until the shrimp is fully cooked.\n5. Serve hot with rice.",
+        "rating": 4.5
+      },
+      {
+        "id": 1,
+        "recipe_name": "Bengali Fish Curry",
+        "ingredients": [
+          "500g fish",
+          "1 onion, chopped",
+          "1 tsp ginger paste",
+          "1 tsp garlic paste",
+          "1 tsp turmeric",
+          "1 tsp cumin",
+          "1 tsp coriander",
+          "1/2 tsp chili powder",
+          "2 tbsp oil",
+          "Salt to taste",
+          "1 tomato, chopped"
+        ],
+        "cooking_method": "1. Heat oil in a pan and fry onion, ginger and garlic paste until golden brown.\n2. Add fish and tomato and cook for 3-4 minutes.\n3. Add turmeric, cumin, coriander, chili powder, and salt. Mix well.\n4. Add water and cook for another 10-12 minutes or until the fish is fully cooked.\n5. Serve hot with rice.",
+        "rating": 4.3
+      },
+      {
+        "id": 2,
+        "recipe_name": "Bhapa Ilish",
+        "ingredients": [
+          "500g Hilsa fish",
+          "1 cup mustard paste",
+          "1 cup coconut milk",
+          "1 onion, chopped",
+          "2 green chilies, chopped",
+          "1 tsp turmeric",
+          "1 tsp red chili powder",
+          "2 tbsp mustard oil",
+          "Salt to taste"
+        ],
+        "cooking_method": "1. In a bowl, mix mustard paste, coconut milk, turmeric, chili powder, salt, and mustard oil.\n2. Add Hilsa fish to the bowl and coat it well with the mixture.\n3. Transfer the mixture to a steaming bowl and add chopped onion and green chilies on top.\n4. Steam the fish for 15-20 minutes or until fully cooked.\n5. Serve hot with rice.",
+        "rating": 4.8
+      },
+      {
+        "id": 3,
+        "recipe_name": "Fish Curry",
+        "ingredients": [
+            "1 lb fish",
+            "1 onion",
+            "2 cloves garlic",
+            "1 tsp ginger paste",
+            "1 tsp cumin",
+            "1 tsp coriander",
+            "1/2 tsp turmeric",
+            "1/4 tsp chili powder",
+            "1/4 cup tomato puree",
+            "1/4 cup water",
+            "2 tbsp oil",
+            "Salt to taste"
+        ],
+        "cooking_method": "1. Heat oil in a pan and fry onion, garlic, and ginger paste until golden brown. \n2. Add the fish and cook for 5-7 minutes. \n3. Add cumin, coriander, turmeric, chili powder, and salt. Cook for 2-3 minutes. \n4. Add tomato puree and water, and cook for 10-15 minutes until the fish is fully cooked. \n5. Serve hot with rice or bread.",
+        "rating": 4.2
+    },
+    {
+        "id": 4,
+        "recipe_name": "Prawn Curry",
+        "ingredients": [
+            "1 lb prawns",
+            "1 onion",
+            "2 cloves garlic",
+            "1 tsp ginger paste",
+            "1 tsp cumin",
+            "1 tsp coriander",
+            "1/2 tsp turmeric",
+            "1/4 tsp chili powder",
+            "1/4 cup tomato puree",
+            "1/4 cup water",
+            "2 tbsp oil",
+            "Salt to taste"
+        ],
+        "cooking_method": "1. Heat oil in a pan and fry onion, garlic, and ginger paste until golden brown. \n2. Add the prawns and cook for 2-3 minutes. \n3. Add cumin, coriander, turmeric, chili powder, and salt. Cook for 2-3 minutes. \n4. Add tomato puree and water, and cook for 5-7 minutes until the prawns are fully cooked. \n5. Serve hot with rice or bread.",
+        "rating": 4.8
+    },
+    {
+        "id": 5,
+        "recipe_name": "Mutton Curry",
+        "ingredients": [
+            "1 lb mutton",
+            "1 onion",
+            "2 cloves garlic",
+            "1 tsp ginger paste",
+            "1 tsp cumin",
+            "1 tsp coriander",
+            "1/2 tsp turmeric",
+            "1/4 tsp chili powder",
+            "1/4 cup tomato puree",
+            "1/4 cup water",
+            "2 tbsp oil",
+            "Salt to taste"
+        ],
+        "cooking_method": "1. Heat oil in a pan and fry onion, garlic, and ginger paste until golden brown. \n2. Add the mutton and cook for 5-7 minutes. \n3. Add cumin, coriander, turmeric, chili powder, and salt. Cook for 2-3 minutes. \n4. Add tomato puree and water, and cook for 30-40 minutes until the mutton is fully cooked. \n5. Serve hot with rice or bread.",
+        "rating": 4.4
+    },
+    {
+        "id": 6,
+        "recipe_name": "Shorshe Ilish (Mustard Hilsa)",
+        "ingredients": [
+            "4 pieces of Hilsa fish",
+            "2 tbsp mustard paste",
+            "2 green chilies, chopped",
+            "1 onion, sliced",
+            "1 tsp turmeric powder",
+            "1/2 tsp red chili powder",
+            "1/2 tsp salt",
+            "2 tbsp mustard oil",
+            "1 cup water"
+        ],
+        "cooking_method": "1. Marinate the fish with turmeric and salt for 10 minutes. \n2. Heat mustard oil in a pan and fry the fish until golden brown. \n3. Remove the fish from the pan and add sliced onion, green chilies, and a pinch of salt. Fry until the onion turns translucent. \n4. Add mustard paste, turmeric powder, and red chili powder. Fry for 2-3 minutes. \n5. Add water and bring to a boil. \n6. Add the fried fish to the pan and cook for 5-7 minutes. \n7. Serve hot with steamed rice.",
+        "rating": 4.8
+    },
+    {
+        "id": 1,
+        "recipe_name": "Chingri Macher Malai Curry (Prawn Coconut Curry)",
+        "ingredients": [
+            "500g prawns",
+            "1 onion, chopped",
+            "1 tsp ginger paste",
+            "1 tsp garlic paste",
+            "2 green chilies, sliced",
+            "1/2 cup coconut milk",
+            "1/2 tsp turmeric powder",
+            "1/2 tsp red chili powder",
+            "1 tsp sugar",
+            "2 tbsp oil",
+            "Salt to taste"
+        ],
+        "cooking_method": "1. Heat oil in a pan and fry the onion, ginger paste, garlic paste, and green chilies until golden brown. \n2. Add the prawns and fry for 2-3 minutes. \n3. Add turmeric powder, red chili powder, and salt. Fry for 2-3 minutes. \n4. Add coconut milk and sugar. Cook for 5-7 minutes until the prawns are fully cooked. \n5. Serve hot with steamed rice.",
+        "rating": 4.5
+    },
+    {
+        "id": 2,
+        "recipe_name": "Bhapa Ilish (Steamed Hilsa)",
+        "ingredients": [
+            "2 pieces of Hilsa fish",
+            "1/2 cup mustard paste",
+            "2 green chilies, sliced",
+            "1/2 tsp turmeric powder",
+            "1/2 tsp salt"
+        ],
+        "cooking_method": "1. Marinate the fish with turmeric and salt for 10 minutes. \n2. Mix mustard paste and green chilies. Apply the mixture evenly on both sides of the fish. \n3. Wrap the fish with banana leaf or aluminum foil. \n4. Steam the fish for 15-20 minutes. \n5. Serve hot with steamed rice.",
+        "rating": 4.6
+    },
+    {
+        "id": 3,
+        "recipe_name": "Fish Kalia",
+        "ingredients": [
+            "1 lb fish",
+            "1 onion",
+            "2 cloves garlic",
+            "1 tsp ginger paste",
+            "1 tsp cumin",
+            "1 tsp coriander",
+            "1/2 tsp turmeric",
+            "1/4 tsp chili powder",
+            "1/4 cup yogurt",
+            "1/4 cup tomato puree",
+            "1/4 cup water",
+            "2 tbsp oil",
+            "Salt to taste"
+        ],
+        "cooking_method": "1. Heat oil in a pan and fry onion, garlic, and ginger paste until golden brown. \n2. Add the fish and cook for 5 minutes. \n3. Add cumin, coriander, turmeric, chili powder, and salt. Cook for 2 minutes. \n4. Add tomato puree and water, and cook for 10-15 minutes until the fish is fully cooked. \n5. Add yogurt and cook for another 2-3 minutes. Serve hot with rice.",
+        "rating": 4.2
+    },
+    {
+        "id": 4,
+        "recipe_name": "Chana Masala",
+        "ingredients": [
+            "2 cups chickpeas",
+            "1 onion",
+            "2 cloves garlic",
+            "1 tsp ginger paste",
+            "1 tsp cumin",
+            "1 tsp coriander",
+            "1/2 tsp turmeric",
+            "1/4 tsp chili powder",
+            "1/4 cup tomato puree",
+            "1/4 cup water",
+            "2 tbsp oil",
+            "Salt to taste"
+        ],
+        "cooking_method": "1. Soak the chickpeas overnight and drain. \n2. Heat oil in a pan and fry onion, garlic, and ginger paste until golden brown. \n3. Add the chickpeas and cook for 5 minutes. \n4. Add cumin, coriander, turmeric, chili powder, and salt. Cook for 2-3 minutes. \n5. Add tomato puree and water, and cook for 20-25 minutes until the chickpeas are fully cooked. \n6. Serve hot with rice or bread.",
+        "rating": 4.7
+    },
+    {
+        "id": 5,
+        "recipe_name": "Aloo Gobi",
+        "ingredients": [
+            "2 potatoes",
+            "1 cauliflower",
+            "1 onion",
+            "2 cloves garlic",
+            "1 tsp ginger paste",
+            "1 tsp cumin",
+            "1 tsp coriander",
+            "1/2 tsp turmeric",
+            "1/4 tsp chili powder",
+            "1/4 cup tomato puree",
+            "1/4 cup water",
+            "2 tbsp oil",
+            "Salt to taste"
+        ],
+        "cooking_method": "1. Cut the potatoes and cauliflower into small pieces. \n2. Heat oil in a pan and fry onion, garlic, and ginger paste until golden brown. \n3. Add the potatoes and cauliflower and cook for 5-7 minutes. \n4. Add cumin, coriander, turmeric, chili powder, and salt. Cook for 2-3 minutes. \n5. Add tomato puree and water, and cook for 15-20 minutes until the vegetables are fully cooked. \n6. Serve hot with rice or bread.",
+        "rating": 4.3
+    },
+    {
+        "id": 6,
+        "recipe_name": "Chapati",
+        "ingredients": [
+            "2 cups whole wheat flour",
+            "3/4 cup warm water",
+            "1/2 tsp salt",
+            "2 tbsp oil",
+            "Extra flour for dusting"
+        ],
+        "cooking_method": "1. In a mixing bowl, combine the flour and salt. \n2. Add the water and oil, and mix well to form a soft dough. \n3. Knead the dough for 5-7 minutes until smooth. \n4. Divide the dough into equal-sized balls. \n5. Roll out each ball into a thin round chapati, using extra flour for dusting if needed. \n6. Heat a griddle or frying pan over medium-high heat. \n7. Cook each chapati for 1-2 minutes on each side until lightly browned. \n8. Serve hot with your favorite curry or chutney.",
+        "rating": 4.2
+    },
+    {
+        "id": 1,
+        "recipe_name": "Vegetable Biryani",
+        "ingredients": [
+            "2 cups basmati rice",
+            "3 cups water",
+            "1 onion, sliced",
+            "1 cup mixed vegetables (carrots, peas, beans)",
+            "1 tsp ginger paste",
+            "1 tsp garlic paste",
+            "1 tsp cumin",
+            "1 tsp coriander",
+            "1/2 tsp turmeric",
+            "1/4 tsp chili powder",
+            "1/4 cup yogurt",
+            "2 tbsp oil",
+            "Salt to taste"
+        ],
+        "cooking_method": "1. Rinse the rice and soak it in water for 30 minutes. \n2. Heat oil in a large pot and fry the onions until golden brown. \n3. Add the mixed vegetables and cook for 2-3 minutes. \n4. Add ginger paste, garlic paste, cumin, coriander, turmeric, chili powder, and salt. Cook for 2-3 minutes. \n5. Add the soaked rice and water, and bring to a boil. \n6. Reduce heat to low and cover the pot with a tight-fitting lid. Cook for 15-20 minutes until the rice is fully cooked. \n7. Add yogurt and mix well. \n8. Serve hot with raita or pickle.",
+        "rating": 4.6
+    },
+    {
+        "id": 2,
+        "recipe_name": "Fish Curry",
+        "ingredients": [
+            "1 lb fish",
+            "1 onion",
+            "2 cloves garlic",
+            "1 tsp ginger paste",
+            "1 tsp cumin",
+            "1 tsp coriander",
+            "1/2 tsp turmeric",
+            "1/4 tsp chili powder",
+            "1/4 cup yogurt",
+            "1/4 cup tomato puree",
+            "1/4 cup water",
+            "2 tbsp oil",
+            "Salt to taste"
+        ],
+        "cooking_method": "1. Heat oil in a pan and fry onion, garlic, and ginger paste until golden brown. \n2. Add the fish and cook for 5 minutes. \n3. Add cumin, coriander, turmeric, chili powder, and salt. Cook for 2 minutes. \n4. Add tomato puree and water, and cook for 10-15 minutes until the fish is fully cooked. \n5. Add yogurt and cook for another 2-3 minutes. Serve hot with rice or bread.",
+        "rating": 4.2
+    },
+    {
+        "id": 3,
+        "recipe_name": "Fish Curry",
+        "ingredients": [
+            "1 lb fish",
+            "1 onion",
+            "2 cloves garlic",
+            "1 tsp ginger paste",
+            "1 tsp cumin",
+            "1 tsp coriander",
+            "1/2 tsp turmeric",
+            "1/4 tsp chili powder",
+            "1/4 cup tomato puree",
+            "1/4 cup water",
+            "2 tbsp oil",
+            "Salt to taste"
+        ],
+        "cooking_method": "1. Heat oil in a pan and fry onion, garlic, and ginger paste until golden brown. \n2. Add the fish and cook for 5-7 minutes. \n3. Add cumin, coriander, turmeric, chili powder, and salt. Cook for 2-3 minutes. \n4. Add tomato puree and water, and cook for 10-15 minutes until the fish is fully cooked. \n5. Serve hot with rice or bread.",
+        "rating": 4.2
+    },
+    {
+        "id": 4,
+        "recipe_name": "Vegetable Curry",
+        "ingredients": [
+            "1 onion",
+            "2 cloves garlic",
+            "1 tsp ginger paste",
+            "1 tsp cumin",
+            "1 tsp coriander",
+            "1/2 tsp turmeric",
+            "1/4 tsp chili powder",
+            "1/4 cup yogurt",
+            "1/4 cup tomato puree",
+            "1/4 cup water",
+            "2 tbsp oil",
+            "1 carrot",
+            "1 potato",
+            "1/2 cup green beans",
+            "Salt to taste"
+        ],
+        "cooking_method": "1. Heat oil in a pan and fry onion, garlic, and ginger paste until golden brown. \n2. Add vegetables and cook for 5-7 minutes. \n3. Add cumin, coriander, turmeric, chili powder, and salt. Cook for 2-3 minutes. \n4. Add tomato puree and water, and cook for 10-15 minutes until the vegetables are fully cooked. \n5. Add yogurt and cook for another 2-3 minutes. Serve hot with rice or bread.",
+        "rating": 4.1
+    },
+    {
+        "id": 5,
+        "recipe_name": "Chana Masala",
+        "ingredients": [
+            "1 cup chickpeas",
+            "1 onion",
+            "2 cloves garlic",
+            "1 tsp ginger paste",
+            "1 tsp cumin",
+            "1 tsp coriander",
+            "1/2 tsp turmeric",
+            "1/4 tsp chili powder",
+            "1/4 cup tomato puree",
+            "1/4 cup water",
+            "2 tbsp oil",
+            "Salt to taste"
+        ],
+        "cooking_method": "1. Soak chickpeas overnight and cook in a pressure cooker for 15-20 minutes until fully cooked. \n2. Heat oil in a pan and fry onion, garlic, and ginger paste until golden brown. \n3. Add cumin, coriander, turmeric, chili powder, and salt. Cook for 2-3 minutes. \n4. Add tomato puree and water, and cook for 10-15 minutes until the sauce thickens. \n5. Add chickpeas and cook for another 2-3 minutes. Serve hot with rice or bread.",
+        "rating": 4
+    },
+    {
+        "id": 6,
+        "recipe_name": "Beef Bhuna",
+        "ingredients": [
+            "1 lb beef",
+            "1 onion",
+            "2 cloves garlic",
+            "1 tsp ginger paste",
+            "1 tsp cumin",
+            "1 tsp coriander",
+            "1/2 tsp turmeric",
+            "1/4 tsp chili powder",
+            "1/4 cup tomato puree",
+            "1/4 cup water",
+            "2 tbsp oil",
+            "Salt to taste"
+        ],
+        "cooking_method": "1. Heat oil in a pan and fry onion, garlic, and ginger paste until golden brown. \n2. Add the beef and cook for 5-7 minutes. \n3. Add cumin, coriander, turmeric, chili powder, and salt. Cook for 2-3 minutes. \n4. Add tomato puree and water, and cook for 20-25 minutes until the beef is fully cooked. \n5. Serve hot with rice or bread.",
+        "rating": 4.0
+    }
+
+]
