@@ -37,12 +37,12 @@
     },
     {
       "id": 5,
-      "name": "David Nguyen",
-      "bio": "Chef David Nguyen is a Vietnamese-American chef who specializes in Southeast Asian cuisine. He has worked in several top restaurants in San Francisco and has been featured in numerous food publications.",
-      "likes": 8000,
-      "num_recipes": 50,
-      "years_experience": 8,
-      "image_url": "https://images.unsplash.com/photo-1576237680582-75be01432ca6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+      "name": "Catherine Wong",
+      "bio": "Chef Catherine Wong is a pastry chef who trained in France and has worked in several Michelin-starred restaurants. She is known for her elegant and beautiful desserts and has a large following on social media.",
+      "likes": 12000,
+      "num_recipes": 30,
+      "years_experience": 10,
+      "image_url": "https://images.unsplash.com/photo-1502364271109-0a9a75a2a9df?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
     },
     {
       "id": 6,
