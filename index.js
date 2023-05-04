@@ -19,6 +19,7 @@ app.get('/details', (req, res) =>{
     res.send(details)
 });
 
+
 app.get('/chef/:id', (req, res) =>{
     const id = parseInt(req.params.id);
 

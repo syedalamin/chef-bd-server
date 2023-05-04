@@ -1,56 +1,62 @@
 [
-    {
-      "id": 1,
-      "name": "John Smith",
-      "bio": "Chef John Smith is a graduate of the Culinary Institute of America and has over 20 years of experience in the industry. He specializes in Italian cuisine and is known for his homemade pasta dishes.",
-      "likes": 5000,
-      "num_recipes": 50,
-      "years_experience": 20,
-      "image_url": "https://images.unsplash.com/photo-1600565193348-f74bd3c7ccdf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
-    },
-    {
-      "id": 2, 
-      "name": "Jane Doe",
-      "bio": "Chef Jane Doe has been cooking professionally for 15 years and has worked in some of the finest restaurants in New York City. She is known for her creative use of seasonal ingredients and has a passion for farm-to-table cooking.",
-      "likes": 7000,
-      "num_recipes": 5,
-      "years_experience": 15,
-      "image_url": "https://images.unsplash.com/photo-1470114755716-3e1124c6c3bd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=798&q=80"
-    },
-    {
-      "id": 3,
-      "name": "Michael Lee",
-      "bio": "Chef Michael Lee is a Korean-American chef who specializes in fusion cuisine. He has worked in some of the most renowned kitchens in Los Angeles and has won several awards for his innovative dishes.",
-      "likes": 10000,
-      "num_recipes": 40,
-      "years_experience": 12,
-      "image_url": "https://images.unsplash.com/flagged/photo-1561350117-501b4661f8d4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
-    },
-    {
-      "id": 4,
-      "name": "Catherine Wong",
-      "bio": "Chef Catherine Wong is a pastry chef who trained in France and has worked in several Michelin-starred restaurants. She is known for her elegant and beautiful desserts and has a large following on social media.",
-      "likes": 12000,
-      "num_recipes": 30,
-      "years_experience": 10,
-      "image_url": "https://images.unsplash.com/photo-1502364271109-0a9a75a2a9df?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
-    },
-    {
-      "id": 5,
-      "name": "Catherine Wong",
-      "bio": "Chef Catherine Wong is a pastry chef who trained in France and has worked in several Michelin-starred restaurants. She is known for her elegant and beautiful desserts and has a large following on social media.",
-      "likes": 12000,
-      "num_recipes": 30,
-      "years_experience": 10,
-      "image_url": "https://images.unsplash.com/photo-1502364271109-0a9a75a2a9df?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
-    },
-    {
-      "id": 6,
-      "name": "Emily Chen",
-      "bio": "Chef Emily Chen is a Chinese-American chef who is passionate about using fresh, locally sourced ingredients in her cooking. She has worked in some of the best restaurants in Seattle and is known for her bold and flavorful dishes.",
-      "likes": 6000,
-      "num_recipes": 45,
-      "years_experience": 7,
-      "image_url": "https://images.unsplash.com/photo-1562514155-444b9a967dfa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
-    }
+  {
+    "id": 1,
+    "name": "John Smith",
+    "bio": "Chef John Smith is a graduate of the Culinary Institute of America and has over 20 years of experience in the industry. He specializes in Italian cuisine and is known for his homemade pasta dishes.",
+    "likes": 5000,
+    "num_recipes": 50,
+    "years_experience": 20,
+    "banner_url": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=853&q=80",
+    "image_url": "https://images.unsplash.com/photo-1600565193348-f74bd3c7ccdf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+  },
+  {
+    "id": 2,
+    "name": "Jane Doe",
+    "bio": "Chef Jane Doe has been cooking professionally for 15 years and has worked in some of the finest restaurants in New York City. She is known for her creative use of seasonal ingredients and has a passion for farm-to-table cooking.",
+    "likes": 7000,
+    "num_recipes": 5,
+    "years_experience": 15,
+    "banner_url": "https://images.unsplash.com/photo-1498601761256-9e93c6f5c181?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=836&q=80",
+    "image_url": "https://images.unsplash.com/photo-1470114755716-3e1124c6c3bd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=798&q=80"
+  },
+  {
+    "id": 3,
+    "name": "Michael Lee",
+    "bio": "Chef Michael Lee is a Korean-American chef who specializes in fusion cuisine. He has worked in some of the most renowned kitchens in Los Angeles and has won several awards for his innovative dishes.",
+    "likes": 10000,
+    "num_recipes": 40,
+    "years_experience": 12,
+    "banner_url": "https://images.unsplash.com/photo-1490323814405-4aa634235c2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "image_url": "https://images.unsplash.com/flagged/photo-1561350117-501b4661f8d4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+  },
+  {
+    "id": 4,
+    "name": "Catherine Wong",
+    "bio": "Chef Catherine Wong is a pastry chef who trained in France and has worked in several Michelin-starred restaurants. She is known for her elegant and beautiful desserts and has a large following on social media.",
+    "likes": 12000,
+    "num_recipes": 30,
+    "years_experience": 10,
+    "banner_url": "https://images.unsplash.com/photo-1509722747041-616f39b57569?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "image_url": "https://images.unsplash.com/photo-1502364271109-0a9a75a2a9df?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+  },
+  {
+    "id": 5,
+    "name": "David Nguyen",
+    "bio": "Chef David Nguyen is a Vietnamese-American chef who specializes in Southeast Asian cuisine. He has worked in several top restaurants in San Francisco and has been featured in numerous food publications.",
+    "likes": 8000,
+    "num_recipes": 50,
+    "years_experience": 8,
+    "banner_url": "https://images.unsplash.com/photo-1469648034646-7911874fe62b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=856&q=80",
+    "image_url": "https://images.unsplash.com/photo-1576237680582-75be01432ca6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+  },
+  {
+    "id": 6,
+    "name": "Emily Chen",
+    "bio": "Chef Emily Chen is a Chinese-American chef who is passionate about using fresh, locally sourced ingredients in her cooking. She has worked in some of the best restaurants in Seattle and is known for her bold and flavorful dishes.",
+    "likes": 6000,
+    "num_recipes": 45,
+    "years_experience": 7,
+    "banner_url": "https://images.unsplash.com/photo-1497888329096-51c27beff665?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+    "image_url": "https://images.unsplash.com/photo-1562514155-444b9a967dfa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+  }
 ]
